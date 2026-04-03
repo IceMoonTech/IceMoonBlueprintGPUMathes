@@ -1,4 +1,4 @@
-﻿#pragma once
+#pragma once
 #include "Kismet/BlueprintFunctionLibrary.h"
 #include "IMMathUtils.h"
 #include "IMMathUtils_BP.generated.h"

@@ -1,4 +1,4 @@
-﻿#pragma once
+#pragma once
 
 #include "CoreMinimal.h"
 #include "Math/UnrealMathUtility.h" // For FMath::Pow, FMath::Lerp
